@@ -126,9 +126,9 @@ function Navline() {
           </div>
         </div>
         <div className="navlineLinks">
-          <a href="#">Home</a>
-          <a href="#">Rent a House</a>
-          <a href="#">About</a>
+          <a href="bravo">Home</a>
+          <a href="basf">Rent a House</a>
+          <a href="fsafsa">About</a>
         </div>
       </div>
     </div>
