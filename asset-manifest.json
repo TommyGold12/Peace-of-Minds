@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Peace-of-Minds/static/css/main.cba08c6e.css",
+    "main.js": "/Peace-of-Minds/static/js/main.bf0448e1.js",
+    "index.html": "/Peace-of-Minds/index.html",
+    "main.cba08c6e.css.map": "/Peace-of-Minds/static/css/main.cba08c6e.css.map",
+    "main.bf0448e1.js.map": "/Peace-of-Minds/static/js/main.bf0448e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cba08c6e.css",
+    "static/js/main.bf0448e1.js"
+  ]
+}
