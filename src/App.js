@@ -120,7 +120,7 @@ function Navline() {
           <img alt="#" src="img/house-search-svgrepo-com.svg"></img>
           <div className="logoText">
             <p>
-              <b>Peace</b> Of
+              <b>Peacse</b> Of
             </p>
             <p>Mind</p>
           </div>
