@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Peace-of-Minds/static/css/main.cba08c6e.css",
-    "main.js": "/Peace-of-Minds/static/js/main.bf0448e1.js",
+    "main.js": "/Peace-of-Minds/static/js/main.99606a6e.js",
     "index.html": "/Peace-of-Minds/index.html",
     "main.cba08c6e.css.map": "/Peace-of-Minds/static/css/main.cba08c6e.css.map",
-    "main.bf0448e1.js.map": "/Peace-of-Minds/static/js/main.bf0448e1.js.map"
+    "main.99606a6e.js.map": "/Peace-of-Minds/static/js/main.99606a6e.js.map"
   },
   "entrypoints": [
     "static/css/main.cba08c6e.css",
-    "static/js/main.bf0448e1.js"
+    "static/js/main.99606a6e.js"
   ]
 }
